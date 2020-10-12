@@ -5,10 +5,10 @@ public class Collections
     public void LearnAboutList()
     {
         List<string> names = new List<string>{"Ram", "Hari"};
-        names.Add("Dipan");
-        names.Add("Dipan");
-        names.Add("Dipan");
-        names.Add("Dipan");
+        names.Add("Alina");
+        names.Add("Alina");
+        names.Add("Alina");
+        names.Add("Alina");
     }
 
     public void LearnAboutDictationary()
